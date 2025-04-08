@@ -14,26 +14,37 @@
 ### 👨‍💻 About Me
 
 <div align="center">
-
-```js
-const aboutMe = {
-    currentRole: "CS Grad Student at NYU",
-    currentFocus: "Building sustainable AI solutions at scale",
-    lookingToCollaborate: [
-        "Full Stack Projects",
-        "AI/ML Solutions",
-        "Open Source Development"
-    ],
-    askMeAbout: [
-        "Generative AI",
-        "AI in Finance",
-        "Blockchain",
-        "Offensive Security"
-    ],
-    funFact: "Competitive Gamer, ex-Professional Racer, Offensive security enthusiast 🏎️ 🎮 🔐"
-};
-```
-
+  <table>
+    <tr>
+      <td><b>🎓 Current Role</b></td>
+      <td>CS Grad Student at NYU</td>
+    </tr>
+    <tr>
+      <td><b>🎯 Current Focus</b></td>
+      <td>Building sustainable AI solutions at scale</td>
+    </tr>
+    <tr>
+      <td><b>👥 Looking to Collaborate</b></td>
+      <td>
+        • Full Stack Projects<br>
+        • AI/ML Solutions<br>
+        • Open Source Development
+      </td>
+    </tr>
+    <tr>
+      <td><b>💬 Ask me about</b></td>
+      <td>
+        • Generative AI<br>
+        • AI in Finance<br>
+        • Blockchain<br>
+        • Offensive Security
+      </td>
+    </tr>
+    <tr>
+      <td><b>⚡ Fun Fact</b></td>
+      <td>Competitive Gamer, ex-Professional Racer, Offensive security enthusiast 🏎️ 🎮 🔐</td>
+    </tr>
+  </table>
 </div>
 
 ### 🎯 Featured Projects
