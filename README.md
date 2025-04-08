@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm Mukhil
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm Mukhil Sundararaj Gowthaman
 
 <div align="center">
   
@@ -118,4 +118,4 @@
   <img src="https://komarev.com/ghpvc/?username=Mukaan17&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </div>
 
-![Snake animation](https://github.com/Mukaan17/Mukaan17/blob/output/github-contribution-grid-snake-dark.svg) 
+![Snake animation](https://github.com/Mukaan17/Mukaan17/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark) 
